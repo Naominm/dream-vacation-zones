@@ -1,8 +1,11 @@
 
 body{
+    background-color:rgb(238, 234, 226);
     padding: 0%;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 15px;
     
+
 }
 h1{
     text-align: center;
@@ -10,7 +13,7 @@ h1{
 }
 
 img{
-    width: 320px;
+    width: 350px;
     border-radius: 10px;
 }
 div{
@@ -31,9 +34,17 @@ button{
     margin: 10px;
     margin-left: 10px;
     background-color: rgb(34, 112, 31);
+    border: none;
 
 }
+.butt:hover{
+    background: rgb(11, 70, 13);
+}
 input{
+    border: none;
   border-radius: 10px; 
   padding:  7px;
+}
+.input :focus{
+   color: aqua;
 }
