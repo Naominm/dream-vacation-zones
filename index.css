@@ -18,17 +18,19 @@ div{
 }
 form{
     padding: 40px;
-    
-    border-radius: 10px;
+
     background: #3b3b3b;
     color: #fff;
 }
 button{
-    border-radius: 10px;
+    border-radius: 8px;
     padding: 10px;
+    margin: 10px;
+    margin-left: 10px;
     background-color: rgb(34, 112, 31);
+
 }
 input{
   border-radius: 10px; 
-  padding: 10px; 
+  padding:  7px;
 }
