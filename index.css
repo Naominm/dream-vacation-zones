@@ -2,6 +2,7 @@
 body{
     padding: 0%;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
 }
 h1{
     text-align: center;
@@ -18,10 +19,11 @@ div{
     flex-wrap: wrap;
 }
 form{
-    padding: 40px;
-
-    background: #3b3b3b;
-    color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+   background: #4b4949;
+   color: #fff;
+   
 }
 button{
     border-radius: 8px;
